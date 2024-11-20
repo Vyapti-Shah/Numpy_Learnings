@@ -1,0 +1,11 @@
+It helps in dealing with axis
+NumPy provides efficient storage an better ways of handling data for processing
+It uses less memory to store data (great space complexity)
+It is fast (great time complexity)
+
+5 methods top create numpy array
+ 1. Conversion from other Python structures (eg. lists, tuples)
+ 2. Intrinsic numpy array creation objects (eg. arange, ones, zeros, etc.)
+ 3. Reading arrays from disk, either from standard or custom formats 
+ 4. Creating arrays from raw bytes through the use of strings or buffers
+ 5. Use of special library functions (eg. random)
